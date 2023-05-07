@@ -145,7 +145,7 @@
         },
       "HNDLR": {
             "description": "Your Spam Userbot's Command handler",
-            "value": ".",
+            "value": ",",
             "required": false  
         }
     },
